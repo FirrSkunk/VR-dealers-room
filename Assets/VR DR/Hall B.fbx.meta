@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 525dce09284953241bec786852d5598f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 10'
+    100004: ' 11'
+    100006: ' 12'
+    100008: ' 13'
+    100010: ' 14'
+    100012: ' 15'
+    100014: ' 16'
+    100016: ' 17'
+    100018: ' 18'
+    100020: ' 19'
+    100022: ' 2'
+    100024: ' 20'
+    100026: ' 21'
+    100028: ' 22'
+    100030: ' 23'
+    100032: ' 24'
+    100034: ' 25'
+    100036: ' 26'
+    100038: ' 27'
+    100040: ' 28'
+    100042: ' 29'
+    100044: ' 3'
+    100046: ' 30'
+    100048: ' 31'
+    100050: ' 32'
+    100052: ' 33'
+    100054: ' 34'
+    100056: ' 35'
+    100058: ' 36'
+    100060: ' 37'
+    100062: ' 38'
+    100064: ' 39'
+    100066: ' 4'
+    100068: ' 40'
+    100070: ' 41'
+    100072: ' 5'
+    100074: ' 6'
+    100076: ' 7'
+    100078: ' 8'
+    100080: ' 9'
+    100082: +x glass
+    100084: -x glass
+    100086: Arc
+    100088: Arc.001
+    100090: Arc.002
+    100092: arch.001
+    100094: Attachment Rings
+    100096: Attachment Rings.001
+    100098: Attachment Rings.002
+    100100: B2 export
+    100102: Back Wall
+    100104: Big Exit Door
+    100106: Big Exit Door 2
+    100108: Big Exit Door 2.001
+    100110: Big Exit Door 2.002
+    100112: Box
+    100114: Box 1
+    100116: Box 10
+    100118: Box 11
+    100120: Box 12
+    100122: Box 13
+    100124: Box 2
+    100126: Box 3
+    100128: Box 4
+    100130: Box 5
+    100132: Box 6
+    100134: Box 7
+    100136: Box 8
+    100138: Box 9
+    100140: Camera
+    100142: Center
+    100144: Center.001
+    100146: Center.002
+    100148: Colored Wall strip
+    100150: Counter
+    100152: Counter Top
+    100154: Crash bar cover.001
+    100156: Crash bar cover.002
+    100158: Crash bar plastic.001
+    100160: Crash bar plastic.002
+    100162: Crash bar.001
+    100164: Crash bar.002
+    100166: Cube
+    100168: Cube.001
+    100170: Cube.002
+    100172: Cube.003
+    100174: Curve
+    100176: Curve.001
+    100178: Curve.002
+    100180: Curve.003
+    100182: Cylinders
+    100184: Cylinders.001
+    100186: Cylinders.002
+    100188: Double Exit Door.001
+    100190: Double Exit Door.002
+    100192: Fluro light Ark
+    100194: Fluro light Ark.001
+    100196: Fluro light Ark.002
+    100198: Glass
+    100200: 'Glass '
+    100202: Glass .001
+    100204: //RootNode
+    100206: Light
+    100208: Light-ID2B5A00
+    100210: Light-ID2BAE00
+    100212: Light-ID2C0200
+    100214: Light-ID2C5600
+    100216: Light-ID2CAA00
+    100218: Light-ID2CFE00
+    100220: Light-ID2D5200
+    100222: Light-ID2DA600
+    100224: Light-ID2DFA00
+    100226: Light-ID2E4E00
+    100228: Light-ID2EA200
+    100230: Light-ID2EF600
+    100232: Light-ID2F3400
+    100234: Lighting Curve
+    100236: Lighting Curve.001
+    100238: Lighting Curve.002
+    100240: Lights
+    100242: Lights 1
+    100244: Lights.001
+    100246: Lights.002
+    100248: Push Plate.001
+    100250: Push Plate.002
+    100252: Push Plate.003
+    100254: Quad
+    100256: Quad 1
+    100258: Quad 2
+    100260: quickborgar
+    100262: Rear drapes
+    100264: Roof ref
+    100266: Roof truss
+    100268: Roof truss.001
+    100270: Roof truss.002
+    100272: Roof truss.003
+    100274: Roof wires
+    100276: Roof wires.001
+    100278: Roof wires.002
+    100280: ROOT
+    100282: Sign Backer
+    100284: Sign Neon
+    100286: Small door with right push plate
+    100288: Small door with right push plate.001
+    100290: Small door with right push plate.002
+    100292: Small Wall Ledge
+    100294: Space filler
+    100296: Support Truss
+    100298: Support truss arch
+    100300: Support truss arch outer
+    100302: 'Tall Wall Ledge '
+    100304: Top Drapes Original
+    100306: Top Drapes.001
+    100308: Top Drapes.002
+    100310: Top Drapes.003
+    100312: Top Drapes.004
+    100314: Walkway cutter -x
+    100316: Walkway structure
+    100318: Walkway structure +X
+    100320: Walkway structure End
+    100322: Walkway structure end
+    100324: Walkway structure end +Y
+    100326: Walkway structure end -Y
+    100328: Window frames
+    400000: ' 1'
+    400002: ' 10'
+    400004: ' 11'
+    400006: ' 12'
+    400008: ' 13'
+    400010: ' 14'
+    400012: ' 15'
+    400014: ' 16'
+    400016: ' 17'
+    400018: ' 18'
+    400020: ' 19'
+    400022: ' 2'
+    400024: ' 20'
+    400026: ' 21'
+    400028: ' 22'
+    400030: ' 23'
+    400032: ' 24'
+    400034: ' 25'
+    400036: ' 26'
+    400038: ' 27'
+    400040: ' 28'
+    400042: ' 29'
+    400044: ' 3'
+    400046: ' 30'
+    400048: ' 31'
+    400050: ' 32'
+    400052: ' 33'
+    400054: ' 34'
+    400056: ' 35'
+    400058: ' 36'
+    400060: ' 37'
+    400062: ' 38'
+    400064: ' 39'
+    400066: ' 4'
+    400068: ' 40'
+    400070: ' 41'
+    400072: ' 5'
+    400074: ' 6'
+    400076: ' 7'
+    400078: ' 8'
+    400080: ' 9'
+    400082: +x glass
+    400084: -x glass
+    400086: Arc
+    400088: Arc.001
+    400090: Arc.002
+    400092: arch.001
+    400094: Attachment Rings
+    400096: Attachment Rings.001
+    400098: Attachment Rings.002
+    400100: B2 export
+    400102: Back Wall
+    400104: Big Exit Door
+    400106: Big Exit Door 2
+    400108: Big Exit Door 2.001
+    400110: Big Exit Door 2.002
+    400112: Box
+    400114: Box 1
+    400116: Box 10
+    400118: Box 11
+    400120: Box 12
+    400122: Box 13
+    400124: Box 2
+    400126: Box 3
+    400128: Box 4
+    400130: Box 5
+    400132: Box 6
+    400134: Box 7
+    400136: Box 8
+    400138: Box 9
+    400140: Camera
+    400142: Center
+    400144: Center.001
+    400146: Center.002
+    400148: Colored Wall strip
+    400150: Counter
+    400152: Counter Top
+    400154: Crash bar cover.001
+    400156: Crash bar cover.002
+    400158: Crash bar plastic.001
+    400160: Crash bar plastic.002
+    400162: Crash bar.001
+    400164: Crash bar.002
+    400166: Cube
+    400168: Cube.001
+    400170: Cube.002
+    400172: Cube.003
+    400174: Curve
+    400176: Curve.001
+    400178: Curve.002
+    400180: Curve.003
+    400182: Cylinders
+    400184: Cylinders.001
+    400186: Cylinders.002
+    400188: Double Exit Door.001
+    400190: Double Exit Door.002
+    400192: Fluro light Ark
+    400194: Fluro light Ark.001
+    400196: Fluro light Ark.002
+    400198: Glass
+    400200: 'Glass '
+    400202: Glass .001
+    400204: //RootNode
+    400206: Light
+    400208: Light-ID2B5A00
+    400210: Light-ID2BAE00
+    400212: Light-ID2C0200
+    400214: Light-ID2C5600
+    400216: Light-ID2CAA00
+    400218: Light-ID2CFE00
+    400220: Light-ID2D5200
+    400222: Light-ID2DA600
+    400224: Light-ID2DFA00
+    400226: Light-ID2E4E00
+    400228: Light-ID2EA200
+    400230: Light-ID2EF600
+    400232: Light-ID2F3400
+    400234: Lighting Curve
+    400236: Lighting Curve.001
+    400238: Lighting Curve.002
+    400240: Lights
+    400242: Lights 1
+    400244: Lights.001
+    400246: Lights.002
+    400248: Push Plate.001
+    400250: Push Plate.002
+    400252: Push Plate.003
+    400254: Quad
+    400256: Quad 1
+    400258: Quad 2
+    400260: quickborgar
+    400262: Rear drapes
+    400264: Roof ref
+    400266: Roof truss
+    400268: Roof truss.001
+    400270: Roof truss.002
+    400272: Roof truss.003
+    400274: Roof wires
+    400276: Roof wires.001
+    400278: Roof wires.002
+    400280: ROOT
+    400282: Sign Backer
+    400284: Sign Neon
+    400286: Small door with right push plate
+    400288: Small door with right push plate.001
+    400290: Small door with right push plate.002
+    400292: Small Wall Ledge
+    400294: Space filler
+    400296: Support Truss
+    400298: Support truss arch
+    400300: Support truss arch outer
+    400302: 'Tall Wall Ledge '
+    400304: Top Drapes Original
+    400306: Top Drapes.001
+    400308: Top Drapes.002
+    400310: Top Drapes.003
+    400312: Top Drapes.004
+    400314: Walkway cutter -x
+    400316: Walkway structure
+    400318: Walkway structure +X
+    400320: Walkway structure End
+    400322: Walkway structure end
+    400324: Walkway structure end +Y
+    400326: Walkway structure end -Y
+    400328: Window frames
+    2100000: Material_ Default White Metal
+    2100002: Material_ Glass
+    2100004: Material_ Back drapes
+    2100006: Material_ Glass Roof Bars
+    2100008: Material_ Ceiling cover sides
+    2100010: roof texnormal
+    2100012: Material_ Lighting conduit Tube - Copy - Copy
+    2100014: Material_ Ceiling Cover Top
+    2100016: 'Concrete #16'
+    2100018: brick_wall_color
+    2100020: Material_ Metal Door Mat - Copy - Copy
+    2100022: Material_ Back wall
+    2100024: Material_ Metal Door Mat - Copy
+    2100026: uppewr wall color
+    2100028: Material_ L1 + L2
+    2100030: Material_ Metal Door Mat
+    2100032: Material_ Door Black
+    2100034: Material_ Borgar Sign
+    2100036: Material_ Neon
+    2100038: Material_ quickborgar
+    2100040: Material_ Metal Door Frame
+    2100042: Material_ Exit Door Matte
+    2100044: Material_ Plastic
+    2100046: Material_ Small Metal Door Mat
+    2100048: Material_ Metal Door Mat.002
+    2100050: Material_ Lighting conduit Tube
+    2100052: Material_ Ligth conduit light
+    2100054: Material_ Lighting conduit Tube - Copy
+    2100056: 'Wood Floor #08'
+    2100058: P BS Dual Sided Metallic
+    2100060: Root
+    2300000: ' 1'
+    2300002: ' 10'
+    2300004: ' 11'
+    2300006: ' 12'
+    2300008: ' 13'
+    2300010: ' 14'
+    2300012: ' 15'
+    2300014: ' 16'
+    2300016: ' 17'
+    2300018: ' 18'
+    2300020: ' 19'
+    2300022: ' 2'
+    2300024: ' 20'
+    2300026: ' 21'
+    2300028: ' 22'
+    2300030: ' 23'
+    2300032: ' 24'
+    2300034: ' 25'
+    2300036: ' 26'
+    2300038: ' 27'
+    2300040: ' 28'
+    2300042: ' 29'
+    2300044: ' 3'
+    2300046: ' 30'
+    2300048: ' 31'
+    2300050: ' 32'
+    2300052: ' 33'
+    2300054: ' 34'
+    2300056: ' 35'
+    2300058: ' 36'
+    2300060: ' 37'
+    2300062: ' 38'
+    2300064: ' 39'
+    2300066: ' 4'
+    2300068: ' 40'
+    2300070: ' 41'
+    2300072: ' 5'
+    2300074: ' 6'
+    2300076: ' 7'
+    2300078: ' 8'
+    2300080: ' 9'
+    2300082: +x glass
+    2300084: -x glass
+    2300086: arch.001
+    2300088: Attachment Rings
+    2300090: Attachment Rings.001
+    2300092: Attachment Rings.002
+    2300094: Box
+    2300096: Box 10
+    2300098: Box 11
+    2300100: Box 12
+    2300102: Box 13
+    2300104: Box 2
+    2300106: Box 3
+    2300108: Box 4
+    2300110: Box 5
+    2300112: Box 6
+    2300114: Box 7
+    2300116: Box 8
+    2300118: Box 9
+    2300120: Center
+    2300122: Center.001
+    2300124: Center.002
+    2300126: Colored Wall strip
+    2300128: Counter
+    2300130: Counter Top
+    2300132: Crash bar cover.001
+    2300134: Crash bar cover.002
+    2300136: Crash bar plastic.001
+    2300138: Crash bar plastic.002
+    2300140: Crash bar.001
+    2300142: Crash bar.002
+    2300144: Cube
+    2300146: Cube.001
+    2300148: Cube.002
+    2300150: Cube.003
+    2300152: Cylinders
+    2300154: Cylinders.001
+    2300156: Cylinders.002
+    2300158: Glass
+    2300160: 'Glass '
+    2300162: Glass .001
+    2300164: Push Plate.001
+    2300166: Push Plate.002
+    2300168: Push Plate.003
+    2300170: Quad
+    2300172: Quad 1
+    2300174: Quad 2
+    2300176: quickborgar
+    2300178: Rear drapes
+    2300180: Roof truss
+    2300182: Roof truss.001
+    2300184: Roof truss.002
+    2300186: Roof truss.003
+    2300188: Roof wires
+    2300190: Roof wires.001
+    2300192: Roof wires.002
+    2300194: Sign Backer
+    2300196: Sign Neon
+    2300198: Small Wall Ledge
+    2300200: Space filler
+    2300202: Support Truss
+    2300204: Support truss arch
+    2300206: Support truss arch outer
+    2300208: 'Tall Wall Ledge '
+    2300210: Top Drapes Original
+    2300212: Walkway cutter -x
+    2300214: Walkway structure
+    2300216: Walkway structure +X
+    2300218: Walkway structure End
+    2300220: Walkway structure end
+    2300222: Walkway structure end +Y
+    2300224: Walkway structure end -Y
+    2300226: Window frames
+    3300000: ' 1'
+    3300002: ' 10'
+    3300004: ' 11'
+    3300006: ' 12'
+    3300008: ' 13'
+    3300010: ' 14'
+    3300012: ' 15'
+    3300014: ' 16'
+    3300016: ' 17'
+    3300018: ' 18'
+    3300020: ' 19'
+    3300022: ' 2'
+    3300024: ' 20'
+    3300026: ' 21'
+    3300028: ' 22'
+    3300030: ' 23'
+    3300032: ' 24'
+    3300034: ' 25'
+    3300036: ' 26'
+    3300038: ' 27'
+    3300040: ' 28'
+    3300042: ' 29'
+    3300044: ' 3'
+    3300046: ' 30'
+    3300048: ' 31'
+    3300050: ' 32'
+    3300052: ' 33'
+    3300054: ' 34'
+    3300056: ' 35'
+    3300058: ' 36'
+    3300060: ' 37'
+    3300062: ' 38'
+    3300064: ' 39'
+    3300066: ' 4'
+    3300068: ' 40'
+    3300070: ' 41'
+    3300072: ' 5'
+    3300074: ' 6'
+    3300076: ' 7'
+    3300078: ' 8'
+    3300080: ' 9'
+    3300082: +x glass
+    3300084: -x glass
+    3300086: arch.001
+    3300088: Attachment Rings
+    3300090: Attachment Rings.001
+    3300092: Attachment Rings.002
+    3300094: Box
+    3300096: Box 10
+    3300098: Box 11
+    3300100: Box 12
+    3300102: Box 13
+    3300104: Box 2
+    3300106: Box 3
+    3300108: Box 4
+    3300110: Box 5
+    3300112: Box 6
+    3300114: Box 7
+    3300116: Box 8
+    3300118: Box 9
+    3300120: Center
+    3300122: Center.001
+    3300124: Center.002
+    3300126: Colored Wall strip
+    3300128: Counter
+    3300130: Counter Top
+    3300132: Crash bar cover.001
+    3300134: Crash bar cover.002
+    3300136: Crash bar plastic.001
+    3300138: Crash bar plastic.002
+    3300140: Crash bar.001
+    3300142: Crash bar.002
+    3300144: Cube
+    3300146: Cube.001
+    3300148: Cube.002
+    3300150: Cube.003
+    3300152: Cylinders
+    3300154: Cylinders.001
+    3300156: Cylinders.002
+    3300158: Glass
+    3300160: 'Glass '
+    3300162: Glass .001
+    3300164: Push Plate.001
+    3300166: Push Plate.002
+    3300168: Push Plate.003
+    3300170: Quad
+    3300172: Quad 1
+    3300174: Quad 2
+    3300176: quickborgar
+    3300178: Rear drapes
+    3300180: Roof truss
+    3300182: Roof truss.001
+    3300184: Roof truss.002
+    3300186: Roof truss.003
+    3300188: Roof wires
+    3300190: Roof wires.001
+    3300192: Roof wires.002
+    3300194: Sign Backer
+    3300196: Sign Neon
+    3300198: Small Wall Ledge
+    3300200: Space filler
+    3300202: Support Truss
+    3300204: Support truss arch
+    3300206: Support truss arch outer
+    3300208: 'Tall Wall Ledge '
+    3300210: Top Drapes Original
+    3300212: Walkway cutter -x
+    3300214: Walkway structure
+    3300216: Walkway structure +X
+    3300218: Walkway structure End
+    3300220: Walkway structure end
+    3300222: Walkway structure end +Y
+    3300224: Walkway structure end -Y
+    3300226: Window frames
+    4300000: arch.001
+    4300002: Glass
+    4300004: Rear drapes
+    4300006: -x glass
+    4300008: +x glass
+    4300010: Window frames
+    4300012: Top Drapes Original
+    4300026: Roof truss
+    4300028: Roof truss.001
+    4300030: Roof truss.002
+    4300032: Roof truss.003
+    4300048: Space filler
+    4300050: Colored Wall strip
+    4300060: 'Tall Wall Ledge '
+    4300062: Small Wall Ledge
+    4300064: Walkway cutter -x
+    4300066: Walkway structure
+    4300068: 'Glass '
+    4300070: Support Truss
+    4300072: Walkway structure end
+    4300074: Walkway structure end -Y
+    4300076: Walkway structure +X
+    4300078: Glass .001
+    4300080: Support truss arch
+    4300082: Support truss arch outer
+    4300084: Walkway structure End
+    4300086: Walkway structure end +Y
+    4300088: Cube
+    4300090: Sign Backer
+    4300092: Counter
+    4300098: Sign Neon
+    4300100: quickborgar
+    4300106: Crash bar.001
+    4300108: Crash bar cover.001
+    4300110: Crash bar plastic.001
+    4300116: Push Plate.001
+    4300122: Center
+    4300124: Attachment Rings
+    4300126: Cylinders
+    4300128: Roof wires
+    4300134: Center.001
+    4300136: Attachment Rings.001
+    4300138: Cylinders.001
+    4300144: Center.002
+    4300146: Attachment Rings.002
+    4300148: Cylinders.002
+    4300154: Counter Top
+    4300156: Quad
+    4300158: Box
+    4300160: Box
+    4300162: Box
+    4300164: Box
+    4300166: Box
+    4300168: Box
+    4300170: Box
+    4300172: Box
+    4300174: Box
+    4300176: Box
+    4300178: Box
+    4300180: Box
+    4300182: Quad
+    4300184: Quad
+    4300186: Box
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
